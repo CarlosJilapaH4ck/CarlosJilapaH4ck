@@ -58,8 +58,6 @@ Utilizo técnicas ofensivas y defensivas para fortalecer entornos digitales desd
 <div align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/DAX-FF6600?style=for-the-badge&logo=powerbi&logoColor=white" alt="DAX"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
 </div>
 
@@ -77,9 +75,6 @@ Utilizo técnicas ofensivas y defensivas para fortalecer entornos digitales desd
 <div align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="ELK Stack"/>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
 </div>
 
 ### 🤖 **Machine Learning & Security Analytics**
@@ -88,7 +83,6 @@ Utilizo técnicas ofensivas y defensivas para fortalecer entornos digitales desd
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/YARA-00A4EF?style=for-the-badge&logo=yara&logoColor=white" alt="YARA"/>
 </div>
 
 ### 🔄 **Infrastructure & Security Tools**
@@ -118,8 +112,8 @@ Utilizo técnicas ofensivas y defensivas para fortalecer entornos digitales desd
 </td>
 <td align="center" width="200">
 <img src="https://cdn-icons-png.flaticon.com/512/4727/4727266.png" width="80" height="80"/><br/>
-<b>Threat Intelligence</b><br/>
-<i>Análisis de Malware & IOCs</i>
+<b>Detection and analysis of computer threats</b><br/>
+<i>Identificación de malware e IOCs para prevenir y responder a ciberataques.s</i>
 </td>
 </tr>
 <tr>
@@ -135,8 +129,8 @@ Utilizo técnicas ofensivas y defensivas para fortalecer entornos digitales desd
 </td>
 <td align="center" width="200">
 <img src="https://cdn-icons-png.flaticon.com/512/9850/9850774.png" width="80" height="80"/><br/>
-<b>ETL & Big Data</b><br/>
-<i>Pipelines de Datos & Analytics</i>
+<b>Data analysis with MySQL</b><br/>
+<i>Extracción, consulta y análisis de datos estructurados mediante SQL</i>
 </td>
 </tr>
 </table>
@@ -149,10 +143,10 @@ Utilizo técnicas ofensivas y defensivas para fortalecer entornos digitales desd
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=SandroFalconiDev&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&icon_color=FF0000" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=CarlosJilapaH4ck&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&icon_color=FF0000" alt="GitHub Stats"/>
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandroFalconiDev&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=FF0000&fire=FF0000&currStreakLabel=00FF41" alt="GitHub Streak"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosJilapaH4ck&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=FF0000&fire=FF0000&currStreakLabel=00FF41" alt="GitHub Streak"/>
       </td>
     </tr>
   </table>
@@ -163,18 +157,15 @@ Utilizo técnicas ofensivas y defensivas para fortalecer entornos digitales desd
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Python-100%25-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python 100%"/>
+        <img src="https://img.shields.io/badge/Python-100%25-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python 55%"/>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/SQL-100%25-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL 100%"/>
+        <img src="https://img.shields.io/badge/SQL-100%25-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL 60%"/>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/DAX-100%25-FF6600?style=for-the-badge&logo=powerbi&logoColor=white" alt="DAX 100%"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Kali%20Linux-100%25-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux 100%"/>
+        <img src="https://img.shields.io/badge/Kali%20Linux-100%25-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux 80%"/>
       </td>
     </tr>
   </table>
@@ -185,11 +176,11 @@ Utilizo técnicas ofensivas y defensivas para fortalecer entornos digitales desd
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Proyectos Destacados**
 
 <div align="center">
-  <a href="https://github.com/SandroFalconiDev">
+  <a href="https://github.com/CarlosJilapaH4ck">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SandroFalconiDev&repo=cybersecurity-analytics-suite&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=FF0000" alt="Cybersecurity Analytics"/>
   </a>
-  <a href="https://github.com/SandroFalconiDev">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SandroFalconiDev&repo=ethical-hacking-toolkit&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=FF0000" alt="Ethical Hacking Toolkit"/>
+  <a href="https://github.com/CarlosJilapaH4ck">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosJilapaH4ck&repo=ethical-hacking-toolkit&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=FF0000" alt="Ethical Hacking Toolkit"/>
   </a>
 </div>
 
@@ -198,11 +189,34 @@ Utilizo técnicas ofensivas y defensivas para fortalecer entornos digitales desd
 ## 🏆 **Certificaciones & Logros**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-FF0000?style=for-the-badge&logo=ec-council&logoColor=white" alt="CEH"/>
-  <img src="https://img.shields.io/badge/CISSP-Security%20Professional-0066CC?style=for-the-badge&logo=isc2&logoColor=white" alt="CISSP"/>
-  <img src="https://img.shields.io/badge/Data%20Science-Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Data Science"/>
+  <img src="https://img.shields.io/badge/ISO%2027001-Standard-0078D7?style=for-the-badge&logo=iso&logoColor=white" alt="ISO 27001"/>
+  
+  <img src="https://img.shields.io/badge/Ciberseguridad-Security-4CAF50?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Ciberseguridad"/>
+  
+  <img src="https://img.shields.io/badge/OWASP-Web%20Security-FF5722?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
+  
+  <img src="https://img.shields.io/badge/Ingenieria%20Social-Phishing-F44336?style=for-the-badge&logo=phishing&logoColor=white" alt="Ingeniería Social"/>
+  
   <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=SandroFalconiDev&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+  
+  <img src="https://img.shields.io/badge/OSINT-Information%20Gathering-007ACC?style=for-the-badge&logo=googlescholar&logoColor=white" alt="OSINT"/>
+  
+  <img src="https://img.shields.io/badge/Auditoría%20de%20Redes-Network%20Audit-00BCD4?style=for-the-badge&logo=cisco&logoColor=white" alt="Auditoría de Redes"/>
+  
+  <img src="https://img.shields.io/badge/Introducción%20a%20IoT-IoT-FF6F00?style=for-the-badge&logo=iot&logoColor=white" alt="Introducción a IoT"/>
+  
+  <img src="https://img.shields.io/badge/Redes%20Empresariales-Enterprise%20Networks-1976D2?style=for-the-badge&logo=enterprise&logoColor=white" alt="Redes Empresariales"/>
+  
+  <br/><br/>
+  
+  <img src="https://img.shields.io/badge/Seguridad-Security%20Management-9C27B0?style=for-the-badge&logo=security&logoColor=white" alt="Seguridad"/>
+  
+  <img src="https://img.shields.io/badge/Automatización-DevOps-00BFA5?style=for-the-badge&logo=jenkins&logoColor=white" alt="Automatización"/>
+  
+  <br/><br/>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=CarlosJilapaH4ck&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+
 </div>
 
 ---
