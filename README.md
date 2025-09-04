@@ -239,15 +239,15 @@ Utilizo técnicas ofensivas y defensivas para fortalecer entornos digitales desd
 
 <div align="center">
   <a href="https://www.linkedin.com/in/carlos-jilapa-yucra/">
-    <img src="https://img.shields.io/badge/LinkedIn-carlos-jilapa-yucra?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Carlos%20Jilapa%20Yucra-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <br/>
   <a href="mailto:carlosjilapayucra@gmail.com">
-    <img src="https://img.shields.io/badge/Email-carlosjilapayucra@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-carlosjilapayucra@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <br/>
   <a href="https://github.com/CarlosJilapaH4ck">
-    <img src="https://img.shields.io/badge/GitHub-CarlosJilapaH4ck-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-CarlosJilapaH4ck-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
