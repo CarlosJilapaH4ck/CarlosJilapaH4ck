@@ -151,7 +151,7 @@ Utilizo técnicas ofensivas y defensivas para fortalecer entornos digitales desd
       </td>
       <td>
         <img 
-          src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosJilapaH4ck&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=FF0000&fire=FF0000&currStreakLabel=00FF41" 
+          src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosJilapaH4ck/&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=FF0000&fire=FF0000&currStreakLabel=00FF41" 
           alt="GitHub Streak"
         />
       </td>
