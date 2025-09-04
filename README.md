@@ -12,10 +12,10 @@
 </div>
 
 <div align="center">
-  <a href="www.linkedin.com/in/carlos-jilapa-yucra-a3136b382">
+  <a href="www.linkedin.com/in/carlos-jilapa-yucra/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/CarlosJilapaSec">
+  <a href="https://github.com/CarlosJilapaH4ck">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=SandroFalconiDev&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
