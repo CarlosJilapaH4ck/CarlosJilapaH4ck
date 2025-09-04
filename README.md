@@ -178,7 +178,7 @@ Utilizo técnicas ofensivas y defensivas para fortalecer entornos digitales desd
 
 <div align="center">
   <a href="https://github.com/CarlosJilapaH4ck">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SandroFalconiDev&repo=cybersecurity-analytics-suite&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=FF0000" alt="Cybersecurity Analytics"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosJilapaH4ck&repo=cybersecurity-analytics-suite&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=FF0000" alt="Cybersecurity Analytics"/>
   </a>
   <a href="https://github.com/CarlosJilapaH4ck">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosJilapaH4ck&repo=ethical-hacking-toolkit&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=FF0000" alt="Ethical Hacking Toolkit"/>
@@ -205,7 +205,6 @@ Utilizo técnicas ofensivas y defensivas para fortalecer entornos digitales desd
   <br/><br/>
   
   <img src="https://img.shields.io/badge/Seguridad-Security%20Management-9C27B0?style=for-the-badge&logo=security&logoColor=white" alt="Seguridad"/>
-  
   <img src="https://img.shields.io/badge/Automatización-DevOps-00BFA5?style=for-the-badge&logo=jenkins&logoColor=white" alt="Automatización"/>
   
   <br/><br/>
