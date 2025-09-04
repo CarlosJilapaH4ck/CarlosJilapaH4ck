@@ -8,7 +8,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=120&lines=🔒+Cybersecurity+Specialist+%7C+Ethical+Hacker;📊+Data+Scientist+%7C+Analytics+Expert;🐍+Python+%7C+SQL+%7C+Machine+Learning;🛡️+Penetration+Testing+%7C+Digital+Forensics;⚡+Transforming+Data+%26+Securing+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=120&lines=🔒+Cybersecurity+Junior+%7C+Ethical+Hacker;📊+Future+Data+Scientist+%7C+Developing+Analytical+Skills;🐍+Python+%7C+SQL+%7C+Machine+Learning;🛡️+Penetration+Testing+%7C+Digital+Forensics;⚡+Transforming+Data+%26+Securing+Systems" alt="Typing SVG" />
 </div>
 
 <div align="center">
