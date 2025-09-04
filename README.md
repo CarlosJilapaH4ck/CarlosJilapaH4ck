@@ -27,7 +27,10 @@
 
 <img align="right" alt="Ethical Hacking GIF" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
-✨ "It all started with a simple curiosity to understand how things work behind the screen... Today, cybersecurity is not just my career path — it’s one of my greatest dreams. Every line of code, every vulnerability discovered, and every piece of data analyzed brings me closer to my purpose: protecting what others often overlook."
+✨ It all started with a simple curiosity to understand how things work behind the screen... Today, cybersecurity is not just my career path — it’s one of my greatest dreams. Every line of code, every vulnerability discovered, and every piece of data analyzed brings me closer to my purpose: protecting what others often overlook.
+
+<br/>
+
 
 🔐 **Cybersecurity Specialist** y **Ethical Hacker** especializado en pentesting y análisis forense
 
