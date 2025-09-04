@@ -222,7 +222,7 @@ Utilizo técnicas ofensivas y defensivas para fortalecer entornos digitales desd
   <table>
     <tr>
       <td align="center">
-        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100"/><br/>
+        <img src="https://imagenes.eleconomista.com.mx/files/image_768_448/uploads/2025/09/01/68b666a40ce1a.jpeg" width="100"/><br/>
         <b>🔒 "Un candado en el ciberespacio no detiene, solo disuade"</b>
       </td>
       <td align="center">
@@ -243,7 +243,7 @@ Utilizo técnicas ofensivas y defensivas para fortalecer entornos digitales desd
   </a>
   <br/>
   <a href="mailto:carlosdanieljilapayucra1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-carlosdanieljilapayucra@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-carlosdanieljilapayucra1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <br/>
   <a href="https://github.com/CarlosJilapaH4ck">
@@ -264,4 +264,4 @@ Utilizo técnicas ofensivas y defensivas para fortalecer entornos digitales desd
 <div align="center">
   <b>⚡ "Thinking like a hacker, acting ethically, valuing data" ⚡</b>
   <br/><br/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy0F1oM3R2VKSQmb8HzolsR-7fqtWpJO_FKg&s" width="100"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy0F1oM3R2VKSQmb8HzolsR-7fqtWpJO_FKg&s" width="300"/>
