@@ -220,7 +220,7 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Conecta Conmigo**
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sandrofalconivizcarra/">
+  <a href="www.linkedin.com/in/carlos-jilapa-yucra-a3136b382">
     <img src="https://img.shields.io/badge/LinkedIn-Sandro_Falconi_Vizcarra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <br/>
