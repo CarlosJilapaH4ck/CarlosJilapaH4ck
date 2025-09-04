@@ -108,29 +108,29 @@ Utilizo técnicas ofensivas y defensivas para fortalecer entornos digitales desd
 <td align="center" width="200">
 <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="80" height="80"/><br/>
 <b>Digital Forensics</b><br/>
-<i>Análisis Forense & Investigación</i>
+<i>Forensic Analysis & Investigation</i>
 </td>
 <td align="center" width="200">
 <img src="https://cdn-icons-png.flaticon.com/512/4727/4727266.png" width="80" height="80"/><br/>
 <b>Detection and analysis of computer threats</b><br/>
-<i>Identificación de malware e IOCs para prevenir y responder a ciberataques.s</i>
+<i>Identifying malware and IOCs to prevent and respond to cyberattacks.</i>
 </td>
 </tr>
 <tr>
 <td align="center" width="200">
 <img src="https://cdn-icons-png.flaticon.com/512/8637/8637101.png" width="80" height="80"/><br/>
 <b>Machine Learning</b><br/>
-<i>Modelos Predictivos & Clasificación</i>
+<i>Predictive Models & Classification</i>
 </td>
 <td align="center" width="200">
 <img src="https://cdn-icons-png.flaticon.com/512/2103/2103832.png" width="80" height="80"/><br/>
 <b>Data Visualization</b><br/>
-<i>Dashboards & Reportes Interactivos</i>
+<i>Dashboards & Interactive Reports</i>
 </td>
 <td align="center" width="200">
 <img src="https://cdn-icons-png.flaticon.com/512/9850/9850774.png" width="80" height="80"/><br/>
 <b>Data analysis with MySQL</b><br/>
-<i>Extracción, consulta y análisis de datos estructurados mediante SQL</i>
+<i>Extracting, querying, and analyzing structured data using SQL</i>
 </td>
 </tr>
 </table>
@@ -157,15 +157,15 @@ Utilizo técnicas ofensivas y defensivas para fortalecer entornos digitales desd
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Python-100%25-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python 55%"/>
+        <img src="https://img.shields.io/badge/Python-50%25-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python 100%"/>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/SQL-100%25-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL 60%"/>
+        <img src="https://img.shields.io/badge/SQL-60%25-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL 100%"/>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Kali%20Linux-100%25-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux 80%"/>
+        <img src="https://img.shields.io/badge/Kali%20Linux-85%25-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux 100%"/>
       </td>
     </tr>
   </table>
