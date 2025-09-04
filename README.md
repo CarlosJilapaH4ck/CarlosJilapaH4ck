@@ -27,17 +27,21 @@
 
 <img align="right" alt="Ethical Hacking GIF" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
+✨ "It all started with a simple curiosity to understand how things work behind the screen... Today, cybersecurity is not just my career path — it’s one of my greatest dreams. Every line of code, every vulnerability discovered, and every piece of data analyzed brings me closer to my purpose: protecting what others often overlook."
+
 🔐 **Cybersecurity Specialist** y **Ethical Hacker** especializado en pentesting y análisis forense
 
-📊 **Data Scientist** apasionado por descubrir patrones en datos y crear insights de seguridad
+📊 Futuro Científico de Datos enfocado en Seguridad
+Transformo grandes volúmenes de datos en inteligencia accionable para anticipar y mitigar amenazas.
 
-🛡️ Experto en identificar vulnerabilidades y fortalecer la seguridad de sistemas
+🛡️ Fortalezco la seguridad de infraestructuras tecnológicas
+Detectando vulnerabilidades, analizando riesgos y diseñando soluciones robustas.
 
-💡 Transformo datos complejos en inteligencia accionable para decisiones de negocio
+🔍 Experto en análisis de logs y detección de amenazas
+Dominio en herramientas de monitoreo, correlación de eventos y respuesta ante incidentes.
 
-🔍 Especializado en análisis de logs, detección de amenazas y forensia digital
-
-💼 Combino habilidades técnicas de hacking ético con análisis avanzado de datos
+💼 Fusión de hacking ético + análisis avanzado de datos
+Utilizo técnicas ofensivas y defensivas para fortalecer entornos digitales desde una perspectiva integral.
 
 <br/>
 
