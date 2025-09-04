@@ -31,6 +31,8 @@
 
 <br/>
 
+---
+
 
 🔐 **Cybersecurity Specialist** y **Ethical Hacker** especializado en pentesting y análisis forense
 
