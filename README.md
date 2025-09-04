@@ -87,12 +87,13 @@ Utilizo técnicas ofensivas y defensivas para fortalecer entornos digitales desd
 
 ### 🔄 **Infrastructure & Security Tools**
 <div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware"/>
   <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Airflow"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
 </div>
+
 
 ---
 
@@ -190,9 +191,7 @@ Utilizo técnicas ofensivas y defensivas para fortalecer entornos digitales desd
 
 <div align="center">
   <img src="https://img.shields.io/badge/ISO%2027001-Standard-0078D7?style=for-the-badge&logo=iso&logoColor=white" alt="ISO 27001"/>
-  
   <img src="https://img.shields.io/badge/Ciberseguridad-Security-4CAF50?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Ciberseguridad"/>
-  
   <img src="https://img.shields.io/badge/OWASP-Web%20Security-FF5722?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
   
   <img src="https://img.shields.io/badge/Ingenieria%20Social-Phishing-F44336?style=for-the-badge&logo=phishing&logoColor=white" alt="Ingeniería Social"/>
@@ -200,13 +199,9 @@ Utilizo técnicas ofensivas y defensivas para fortalecer entornos digitales desd
   <br/><br/>
   
   <img src="https://img.shields.io/badge/OSINT-Information%20Gathering-007ACC?style=for-the-badge&logo=googlescholar&logoColor=white" alt="OSINT"/>
-  
   <img src="https://img.shields.io/badge/Auditoría%20de%20Redes-Network%20Audit-00BCD4?style=for-the-badge&logo=cisco&logoColor=white" alt="Auditoría de Redes"/>
-  
   <img src="https://img.shields.io/badge/Introducción%20a%20IoT-IoT-FF6F00?style=for-the-badge&logo=iot&logoColor=white" alt="Introducción a IoT"/>
-  
   <img src="https://img.shields.io/badge/Redes%20Empresariales-Enterprise%20Networks-1976D2?style=for-the-badge&logo=enterprise&logoColor=white" alt="Redes Empresariales"/>
-  
   <br/><br/>
   
   <img src="https://img.shields.io/badge/Seguridad-Security%20Management-9C27B0?style=for-the-badge&logo=security&logoColor=white" alt="Seguridad"/>
@@ -228,11 +223,11 @@ Utilizo técnicas ofensivas y defensivas para fortalecer entornos digitales desd
     <tr>
       <td align="center">
         <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100"/><br/>
-        <b>🔒 "La seguridad no es un producto, es un proceso"</b>
+        <b>🔒 "Un candado en el ciberespacio no detiene, solo disuade"</b>
       </td>
       <td align="center">
         <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100"/><br/>
-        <b>📊 "Los datos sin contexto son solo ruido"</b>
+        <b>📊 "Si no entiendes tu código, él ya te controla a ti"</b>
       </td>
     </tr>
   </table>
@@ -247,7 +242,7 @@ Utilizo técnicas ofensivas y defensivas para fortalecer entornos digitales desd
     <img src="https://img.shields.io/badge/LinkedIn-carlos-jilapa-yucra-a3136b382style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <br/>
-  <a href="mailto:carlosdanieljilapayucra@gmail.com">
+  <a href="mailto:carlosdanieljilapayucra1@gmail.com">
     <img src="https://img.shields.io/badge/Email-carlosdanieljilapayucra@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <br/>
