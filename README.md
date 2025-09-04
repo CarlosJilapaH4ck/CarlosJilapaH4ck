@@ -239,7 +239,7 @@ Utilizo técnicas ofensivas y defensivas para fortalecer entornos digitales desd
 
 <div align="center">
   <a href="https://www.linkedin.com/in/carlos-jilapa-yucra/">
-    <img src="https://img.shields.io/badge/LinkedIn-carlos-jilapa-yucra/style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-carlos-jilapa-yucra?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <br/>
   <a href="mailto:carlosjilapayucra@gmail.com">
