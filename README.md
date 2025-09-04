@@ -57,7 +57,7 @@ Utilizo técnicas ofensivas y defensivas para fortalecer entornos digitales desd
 ### 🐍 **Lenguajes de Programación & Análisis**
 <div align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MYSQL"/>
+  <img src="https://img.shields.io/badge/MYSQL%-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MYSQL"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
 </div>
 
