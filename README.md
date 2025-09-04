@@ -181,15 +181,19 @@ Utilizo técnicas ofensivas y defensivas para fortalecer entornos digitales desd
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Proyectos Destacados**
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **GitHub Analytics**
 
 <div align="center">
-  <a href="https://github.com/CarlosJilapaH4ck">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosJilapaH4ck&repo=cybersecurity-analytics-suite&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=FF0000" alt="Cybersecurity Analytics"/>
-  </a>
-  <a href="https://github.com/CarlosJilapaH4ck">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosJilapaH4ck&repo=ethical-hacking-toolkit&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=FF0000" alt="Ethical Hacking Toolkit"/>
-  </a>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api username=CarlosJilapaH4ck&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&icon_color=FF0000" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosJilapaH4ck&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=FF0000&fire=FF0000&currStreakLabel=00FF41" alt="GitHub Streak"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
