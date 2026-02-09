@@ -144,7 +144,7 @@ Utilizo técnicas ofensivas y defensivas para fortalecer entornos digitales desd
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=CarlosJilapaH4ck&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&icon_color=FF0000" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=DanielJilapa&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&icon_color=FF0000" alt="GitHub Stats"/>
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandroFalconiDev&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=FF0000&fire=FF0000&currStreakLabel=00FF41" alt="GitHub Streak"/>
@@ -233,8 +233,8 @@ Utilizo técnicas ofensivas y defensivas para fortalecer entornos digitales desd
     <img src="https://img.shields.io/badge/Email-carlosjilapayucra@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <br/>
-  <a href="https://github.com/DanielJilapaH4ck">
-    <img src="https://img.shields.io/badge/GitHub-CarlosJilapaH4ck-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/DanielJilapa">
+    <img src="https://img.shields.io/badge/GitHub-DanielJilapa-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
