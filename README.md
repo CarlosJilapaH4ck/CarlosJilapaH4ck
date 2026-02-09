@@ -233,7 +233,7 @@ Utilizo técnicas ofensivas y defensivas para fortalecer entornos digitales desd
     <img src="https://img.shields.io/badge/Email-carlosjilapayucra@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <br/>
-  <a href="https://github.com/CarlosJilapaH4ck">
+  <a href="https://github.com/DanielJilapaH4ck">
     <img src="https://img.shields.io/badge/GitHub-CarlosJilapaH4ck-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
